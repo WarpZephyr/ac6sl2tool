@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34414.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sl2decrypt", "sl2decrypt\sl2decrypt.csproj", "{8FD35F8A-4C3E-43EF-A327-117F5954F890}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sl2encrypt", "sl2encrypt\sl2encrypt.csproj", "{0CBEB518-4327-49BC-B606-52A2BC724565}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sl2lib", "sl2\sl2lib.csproj", "{DB46AC73-A64C-4B2D-B5CE-74C13C85DAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD35F8A-4C3E-43EF-A327-117F5954F890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD35F8A-4C3E-43EF-A327-117F5954F890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD35F8A-4C3E-43EF-A327-117F5954F890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD35F8A-4C3E-43EF-A327-117F5954F890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBEB518-4327-49BC-B606-52A2BC724565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBEB518-4327-49BC-B606-52A2BC724565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBEB518-4327-49BC-B606-52A2BC724565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBEB518-4327-49BC-B606-52A2BC724565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB46AC73-A64C-4B2D-B5CE-74C13C85DAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB46AC73-A64C-4B2D-B5CE-74C13C85DAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB46AC73-A64C-4B2D-B5CE-74C13C85DAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB46AC73-A64C-4B2D-B5CE-74C13C85DAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AE13A3F-591F-4E24-822D-4636DC54913D}
+	EndGlobalSection
+EndGlobal
